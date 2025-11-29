@@ -20,18 +20,20 @@
 
 ## CIRCUIT DIAGRAM
 
-<img width="973" height="448" alt="image" src="https://github.com/user-attachments/assets/6bf521f0-cc4f-4bad-b877-d636616c84a4" />
+![WhatsApp Image 2025-11-29 at 10 55 51_7dbe28ae](https://github.com/user-attachments/assets/9dc9501f-db51-42a4-94c4-da82611cfd58)
+
 
 ---
-## MODEL GRAPH
-<img width="488" height="427" alt="image" src="https://github.com/user-attachments/assets/9c8388ab-fc82-4d9a-86ea-1327b148596b" />
-<img width="1006" height="353" alt="image" src="https://github.com/user-attachments/assets/c920c726-d72d-4106-9048-0cd86b895f3d" />
+## Design
+![Uploading WhatsApp Image 2025-11-29 at 10.56.12_eb8b1b27.jpg…]()
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/372a2990-5cea-4535-bf54-198fb7c9b656" />
 
 
 ---
 ##RESULT:
-Thus the LTspice tools has studied and simulated the performance of R-2R  circuits.
+![Uploading WhatsApp Image 2025-11-29 at 10.56.26_d73ca11f.jpg…]()
 ---
