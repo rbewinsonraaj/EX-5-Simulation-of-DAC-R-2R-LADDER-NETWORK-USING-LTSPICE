@@ -21,7 +21,8 @@
 
 ---
 ## Design
-![Uploading WhatsApp Image 2025-11-29 at 10.56.12_eb8b1b27.jpg…]()
+![WhatsApp Image 2025-12-03 at 11 57 33_5353e8ed](https://github.com/user-attachments/assets/a5dc8f23-939e-4493-9a7b-0fd689036c8e)
+
 
 
 ---
